@@ -10,7 +10,6 @@ metadata:
   name: setupfabricjob
 spec:
   backoffLimit: 0
-spec:
   template:
     metadata:
       

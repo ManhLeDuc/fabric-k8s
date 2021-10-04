@@ -1,4 +1,0 @@
-docker/config/*
-docker/crypto-config/*
-kubernetes/crypto-config/*
-kubernetes/config/*
